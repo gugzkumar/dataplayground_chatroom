@@ -24,4 +24,4 @@ Setting up Javascript and Webpack:
 3) Next run `webpack --config webpack.config.js`. This will create all the javascript bundles needed to run the App
 
 
-Have a working server of [Redis](https://app.redislabs.com/?gclid=Cj0KEQjwrsDIBRDX3JCunOrr_YYBEiQAifH1FtXXbwNqjhOF6L6k8ZjwjcfYYk5dGMPhS-pY-y2ulbcaAhK08P8HAQ#/sign-up/tabs/redis-cloud?_ga=1.174105766.562281381.1490501111&product=redis-cloud) running on your machine on `port 6379`. Afterwords just run `python manage.py runserver` in the root directory. Now Data Playground should be running on your `localhost` at `port 8000`
+Have a working server of [Redis](https://redis.io/download) running on your machine on `port 6379`. Afterwords just run `python manage.py runserver` in the root directory. Now Data Playground should be running on your `localhost` at `port 8000`
