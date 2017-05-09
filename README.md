@@ -3,10 +3,10 @@
 Data Playground is a Full Stack Chat Room Server, that runs on Django for the Backend and REACT for the Frontend. 
 
 Once the application is set up and running you can register and login by visiting `localhost:8000/users` on your browser.
-![](https://cloud.githubusercontent.com/assets/24658548/25831445/241d9cdc-3432-11e7-86d9-02e272642473.png)
+![](https://cloud.githubusercontent.com/assets/24658548/25831446/241e6694-3432-11e7-97af-088b0abe9d33.png)
 
 Then by either clicking Chatroom on the navigation bar or visiting `localhost:8000/chatroom` you can try using the chat application.
-
+![](https://cloud.githubusercontent.com/assets/24658548/25831445/241d9cdc-3432-11e7-86d9-02e272642473.png)
 
 The application runs on multiple frameworks and libraries so be prepared to install the following.
 
